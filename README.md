@@ -67,9 +67,9 @@ Low-confidence speech predictions are refined using:
 
 This signal-level reasoning improves robustness under:
 
-✔ Noisy input  
-✔ Monotone speech  
-✔ Ambiguous emotional delivery  
+- Noisy input  
+- Monotone speech  
+- Ambiguous emotional delivery  
 
 ---
 
