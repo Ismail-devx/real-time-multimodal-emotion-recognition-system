@@ -2,12 +2,12 @@
 Real-time multimodal emotion recognition system combining speech and text models with Dynamic Sliding Window tracking, confidence-weighted fusion, and acoustic-aware correction.
 
 
-# 🎭 Real-Time Multimodal Emotion Recognition System  
+#  Real-Time Multimodal Emotion Recognition System  
 ### With Dynamic Sliding Window & Acoustic-Aware Correction
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project presents a **real-time multimodal emotion recognition system** designed to detect, interpret, and respond to user emotions using both **speech** and **text** inputs.
 
@@ -17,16 +17,16 @@ The architecture combines deep learning models with temporal context tracking, c
 
 ---
 
-## ✨ Key Capabilities
+##  Key Capabilities
 
-- 🎤 **Real-time Speech Emotion Recognition** (Wav2Vec 2.0)  
-- 💬 **Text Emotion Classification** (BERT)  
-- 🔁 **Confidence-Weighted Multimodal Fusion**  
-- 🧠 **Dynamic Sliding Window (DSW)** for temporal emotion tracking  
-- 🎚️ **Acoustic-Aware Emotion Correction**  
-- 🤖 **Emotionally Adaptive AI Responses** (OpenChat via Ollama)  
-- 🔊 **Emotion-Modulated Text-to-Speech Feedback**  
-- 📊 **Emotion Logging & Confusion Matrix Evaluation**
+-  **Real-time Speech Emotion Recognition** (Wav2Vec 2.0)  
+-  **Text Emotion Classification** (BERT)  
+-  **Confidence-Weighted Multimodal Fusion**  
+-  **Dynamic Sliding Window (DSW)** for temporal emotion tracking  
+-  **Acoustic-Aware Emotion Correction**  
+-  **Emotionally Adaptive AI Responses** (OpenChat via Ollama)  
+-  **Emotion-Modulated Text-to-Speech Feedback**  
+-  **Emotion Logging & Confusion Matrix Evaluation**
 
 ---
 
@@ -114,21 +114,21 @@ Matplotlib • Seaborn
 
 ## ⚙️ System Workflow
 
-1️⃣ User provides **speech or text input**  
-2️⃣ Speech → Wav2Vec 2.0  
-3️⃣ Text / Transcript → BERT  
-4️⃣ Predictions fused via **confidence weighting**  
-5️⃣ DSW updates emotional context  
-6️⃣ Low-confidence → correction logic  
-7️⃣ Final emotion → OpenChat prompt  
-8️⃣ AI response generated  
-9️⃣ Output vocalised via **TTS modulation**
+1️ User provides **speech or text input**  
+2️ Speech → Wav2Vec 2.0  
+3️ Text / Transcript → BERT  
+4️ Predictions fused via **confidence weighting**  
+5️ DSW updates emotional context  
+6️ Low-confidence → correction logic  
+7️ Final emotion → OpenChat prompt  
+8️ AI response generated  
+9️ Output vocalised via **TTS modulation**
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
-### **1️⃣ Install Dependencies**
+### ** Install Dependencies**
 
 ```bash
 pip install -r requirements.txt
