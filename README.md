@@ -84,7 +84,7 @@ Enabling **emotionally coherent dialogue**, not just classification.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Languages**
 Python
@@ -112,7 +112,7 @@ Matplotlib • Seaborn
 
 ---
 
-## ⚙️ System Workflow
+##  System Workflow
 
 1️ User provides **speech or text input**  
 2️ Speech → Wav2Vec 2.0  
