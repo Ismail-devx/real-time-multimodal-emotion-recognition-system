@@ -30,7 +30,7 @@ The architecture combines deep learning models with temporal context tracking, c
 
 ---
 
-## 🧠 Key Innovations
+##  Key Innovations
 
 ### **Dynamic Sliding Window (DSW)**
 A novel adaptive temporal mechanism that:
