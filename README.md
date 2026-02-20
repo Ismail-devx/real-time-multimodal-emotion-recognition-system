@@ -84,7 +84,6 @@ Enabling **emotionally coherent dialogue**, not just classification.
 
 ---
 
-##  Tech Stack
 
 ### **Languages**
 Python
