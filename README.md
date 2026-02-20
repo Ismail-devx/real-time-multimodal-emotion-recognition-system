@@ -124,7 +124,16 @@ Matplotlib • Seaborn
 9️ Output vocalised via **TTS modulation**
 
 ---
+##  Models
 
+This project uses fine-tuned deep learning models:
+
+- Wav2Vec 2.0 (Speech Emotion Recognition)
+- BERT (Text Emotion Classification)
+
+Due to file size constraints, model weights are not included in this repository.
+
+Pretrained base models can be downloaded via Hugging Face, and fine-tuning can be reproduced using the provided training scripts.
 ##  Running the Project
 
 ### ** Install Dependencies**
